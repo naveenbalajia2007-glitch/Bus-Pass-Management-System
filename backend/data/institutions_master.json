@@ -1,0 +1,7692 @@
+[
+  {
+    "name": "Government Arts and Science College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Ariyalur",
+    "district": "Ariyalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Ariyalur",
+    "district": "Ariyalur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Chengalpattu",
+    "district": "Chengalpattu",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Chennai",
+    "district": "Chennai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Coimbatore",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Coimbatore",
+    "district": "Coimbatore",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Cuddalore",
+    "district": "Cuddalore",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Cuddalore",
+    "district": "Cuddalore",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Dharmapuri",
+    "district": "Dharmapuri",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Dindigul",
+    "district": "Dindigul",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Dindigul",
+    "district": "Dindigul",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Erode",
+    "district": "Erode",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Erode",
+    "district": "Erode",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Kallakurichi",
+    "district": "Kallakurichi",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Kanchipuram",
+    "district": "Kanchipuram",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Kanyakumari",
+    "district": "Kanyakumari",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Karur",
+    "district": "Karur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Karur",
+    "district": "Karur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Krishnagiri",
+    "district": "Krishnagiri",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Madurai",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Madurai",
+    "district": "Madurai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Mayiladuthurai",
+    "district": "Mayiladuthurai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Nagapattinam",
+    "district": "Nagapattinam",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Namakkal",
+    "district": "Namakkal",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Namakkal",
+    "district": "Namakkal",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Nilgiris",
+    "district": "Nilgiris",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Nilgiris",
+    "district": "Nilgiris",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Perambalur",
+    "district": "Perambalur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Perambalur",
+    "district": "Perambalur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Pudukkottai",
+    "district": "Pudukkottai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Ramanathapuram",
+    "district": "Ramanathapuram",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Ranipet",
+    "district": "Ranipet",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Ranipet",
+    "district": "Ranipet",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Salem",
+    "district": "Salem",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Salem",
+    "district": "Salem",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Sivagangai",
+    "district": "Sivagangai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Sivagangai",
+    "district": "Sivagangai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tenkasi",
+    "district": "Tenkasi",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tenkasi",
+    "district": "Tenkasi",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Thanjavur",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Thanjavur",
+    "district": "Thanjavur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Theni",
+    "district": "Theni",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Theni",
+    "district": "Theni",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Thoothukudi",
+    "district": "Thoothukudi",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tiruchirappalli",
+    "district": "Tiruchirappalli",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tirunelveli",
+    "district": "Tirunelveli",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tirupathur",
+    "district": "Tirupathur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tirupathur",
+    "district": "Tirupathur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tiruppur",
+    "district": "Tiruppur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tiruppur",
+    "district": "Tiruppur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tiruvallur",
+    "district": "Tiruvallur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tiruvannamalai",
+    "district": "Tiruvannamalai",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Tiruvarur",
+    "district": "Tiruvarur",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Vellore",
+    "district": "Vellore",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Viluppuram",
+    "district": "Viluppuram",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Viluppuram",
+    "district": "Viluppuram",
+    "type": "school"
+  },
+  {
+    "name": "Government Arts and Science College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Medical College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Engineering College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Polytechnic College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Law College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Agricultural College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Nursing College, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Industrial Training Institute (ITI), Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "District Institute of Education and Training (DIET), Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "college"
+  },
+  {
+    "name": "Government Higher Secondary School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Kendriya Vidyalaya (KV), Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Jawahar Navodaya Vidyalaya (JNV), Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Don Bosco Higher Secondary School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "St. Joseph's School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Holy Angels Higher Secondary School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Little Flower Convent, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Montfort School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Vidhya Mandir High School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Vellayan Chettiar School, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Bharatiya Vidya Bhavan, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.1, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.2, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.3, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.4, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.5, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.6, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.7, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.8, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.9, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.10, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.11, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.12, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.13, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.14, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.15, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.16, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.17, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.18, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.19, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Goverment Model Higher Secondary School No.20, Virudhunagar",
+    "district": "Virudhunagar",
+    "type": "school"
+  },
+  {
+    "name": "Indian Institute of Technology (IIT) Madras",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Anna University (CEG)",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Loyola College",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Madras Christian College",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "PSG College of Technology",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "district": "Coimbatore",
+    "type": "college"
+  },
+  {
+    "name": "National Institute of Technology (NIT) Trichy",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "SASTRA Deemed University",
+    "district": "Thanjavur",
+    "type": "college"
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "district": "Chengalpattu",
+    "type": "college"
+  },
+  {
+    "name": "VIT Chennai",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Stanley Medical College",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Madras Medical College",
+    "district": "Chennai",
+    "type": "college"
+  },
+  {
+    "name": "Madura College",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "American College",
+    "district": "Madurai",
+    "type": "college"
+  },
+  {
+    "name": "Bishop Heber College",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "St. Joseph's College, Trichy",
+    "district": "Tiruchirappalli",
+    "type": "college"
+  },
+  {
+    "name": "Christian Medical College (CMC) Vellore",
+    "district": "Vellore",
+    "type": "college"
+  },
+  {
+    "name": "Vellore Institute of Technology (VIT)",
+    "district": "Vellore",
+    "type": "college"
+  }
+]
