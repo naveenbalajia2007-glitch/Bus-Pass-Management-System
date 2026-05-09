@@ -325,10 +325,11 @@ const verifyPassPublic = async (req, res) => {
   try {
     const { passId } = req.params;
     const [rows] = await db.query(
-      `SELECT bp.pass_number, bp.status, bp.start_date, bp.end_date, bp.boarding_point,
+      `SELECT bp.pass_number, bp.status, bp.start_date, bp.end_date, bp.boarding_point, bp.pass_type,
               u.full_name, u.roll_number, u.department, u.student_photo,
-              r.route_name, r.route_number,
-              i.name as institution_name
+              r.route_name, r.route_number, r.stops as route_stops,
+              i.name as institution_name,
+              DATEDIFF(bp.end_date, CURDATE()) as days_left
        FROM bus_passes bp
        JOIN users  u ON u.id = bp.user_id
        JOIN routes r ON r.id = bp.route_id
@@ -341,8 +342,17 @@ const verifyPassPublic = async (req, res) => {
     const pass = rows[0];
     const isExpired = pass.end_date ? new Date(pass.end_date) < new Date() : true;
     const isValid = pass.status === 'approved' && !isExpired;
+    const isExpiringSoon = pass.days_left <= 7 && pass.days_left > 0;
     
-    res.json({ success: true, pass: { ...pass, isValid } });
+    res.json({ 
+      success: true, 
+      pass: { 
+        ...pass, 
+        isValid, 
+        isExpiringSoon,
+        verified_at: new Date().toISOString()
+      } 
+    });
   } catch (err) {
     console.error(err);
     res.status(500).json({ success: false, message: 'Verification error.' });

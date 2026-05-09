@@ -14,8 +14,9 @@ const routeRoutes     = require('./routes/route.routes');
 const paymentRoutes   = require('./routes/payment.routes');
 const analyticsRoutes = require('./routes/analytics.routes');
 const transportRoutes = require('./routes/transportRoutes');
-const systemRoutes    = require('./routes/systemRoutes');
 const institutionRoutes = require('./routes/institution.routes');
+const systemRoutes     = require('./routes/systemRoutes');
+const { initExpiryChecker } = require('./utils/expiryChecker');
 
 
 const { setupSocketIO } = require('./utils/socketHandler');
@@ -27,7 +28,8 @@ const io     = new Server(server, {
 });
 
 // ─── Middleware ──────────────────────────────────────────────
-app.use(cors({ origin: process.env.CLIENT_URL || 'http://localhost:3000', credentials: true }));
+const allowedOrigins = [process.env.CLIENT_URL, 'http://localhost:3000', 'http://10.241.181.26:3000'];
+app.use(cors({ origin: allowedOrigins, credentials: true }));
 app.use(morgan('dev'));
 app.use((req, res, next) => {
   console.log(`[REQUEST] ${req.method} ${req.url}`);
@@ -68,9 +70,12 @@ app.use((err, _req, res, _next) => {
 // ─── Socket.IO ───────────────────────────────────────────────
 setupSocketIO(io);
 
+// ─── Background Tasks ─────────────────────────────────────────
+initExpiryChecker();
+
 // ─── Start Server ────────────────────────────────────────────
 const PORT = process.env.PORT || 5000;
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`\n🚌 BusPass Backend running at http://localhost:${PORT}`);
   console.log(`📡 Socket.IO ready for live tracking`);
   console.log(`🗄️  Database: ${process.env.DB_NAME}@${process.env.DB_HOST}\n`);
