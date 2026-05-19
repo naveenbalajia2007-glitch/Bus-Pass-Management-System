@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚌 Smart AI-Based Real-Time Bus Pass Management System
 ### OOSE Academic Project | React + Node.js + MySQL + Socket.IO
 
@@ -232,3 +233,7 @@ Frontend runs at: **http://localhost:3000**
 | Send Notifications   | ❌      | ✅    | ❌        |
 | Make Payments        | ✅      | ❌    | ❌        |
 | Live Tracking        | ✅      | ✅    | ✅        |
+=======
+# Buss_Pass_Management_System
+Online Bus Pass Management System with real-time bus tracking feature.
+>>>>>>> 796287cf6ce2dc8ba5922237c64eedb57890d535
